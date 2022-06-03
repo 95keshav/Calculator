@@ -1,0 +1,28 @@
+.text-center{
+    text-align: center;
+}
+
+.bg-black{
+    background-color: black;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.item-center{
+    align-items: center;
+}
+
+
+.text-white{
+    color:white
+}
+
+.bg-dark{
+    background-color: #383838;
+}
