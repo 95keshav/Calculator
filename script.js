@@ -12,7 +12,7 @@ btns.forEach((btn) =>
         str = str.replace(")", "");
         console.log(str);
       }
-      str = eval(str);
+      str = eval(str) + "";
       input.value = str;
     } else if (e.target.innerHTML == "C") {
       str = "";
